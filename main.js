@@ -6,13 +6,13 @@ function check(){
 	var question3 = document.quiz.question3.value;
 	var correct = 0;
 
-	if (question1 == "kinshasa"){
+	if (question1 == "cascading style sheets"){
 		correct++;
 }
-    if (question2 == "pretoria") {
+    if (question2 == "hypertext makeup language") {
     	correct++;
 }
-    if (question3 == "bangui") {
+    if (question3 == "1995") {
     	correct++
     }  
 
